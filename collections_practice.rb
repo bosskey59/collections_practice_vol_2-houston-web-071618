@@ -19,12 +19,7 @@ def remove_non_strings(array)
 end
 
 def count_elements(array)
-  counts = Hash.new 0
 
-  array.each do |array|
-    counts[array] += 1
-  end
-  return counts
 end
 
 def merge_data
@@ -35,6 +30,6 @@ def find_cool
   
 end
 
-def organize_schools
+def organze_schools
   
 end
