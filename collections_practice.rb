@@ -24,6 +24,7 @@ def count_elements(array)
   array.each do |array|
     counts[array] += 1
   end
+  return counts
 end
 
 def merge_data
