@@ -35,6 +35,6 @@ def find_cool
   
 end
 
-def organuze_schools
+def organize_schools
   
 end
